@@ -17,4 +17,8 @@
    
 > <h1>CODE</h1>
 
-> 
+> ![CODE](/img/carbon.png)
+
+> <h1>RUN CODE</h1>
+
+> ![RUN CODE](/img/run%20code.gif)
