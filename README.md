@@ -7,6 +7,8 @@
 2. Subtract
 3. Increase 
 4. Finding
+   
+> <h1>CODE</h1>
 
 > <code>salom:
 Console.Write("birinchi soni kriting = ");
