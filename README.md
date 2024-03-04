@@ -15,10 +15,10 @@
 3. Increase 
 4. Finding
    
-> <h1>CODE</h1>
+> <h2>CODE</h2>
 
 > ![CODE](/img/carbon.png)
 
-> <h1>RUN CODE</h1>
+> <h2>RUN CODE</h2>
 
 > ![RUN CODE](/img/run%20code.gif)
