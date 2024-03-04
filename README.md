@@ -1,6 +1,7 @@
 # SimpleCalculator
 <h2>This is the calculator code</h2>
 
+> ==================================================<br>
 > In this program, you can do what a normal calculator does
 
 1. Adding
